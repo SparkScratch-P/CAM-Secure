@@ -7,7 +7,7 @@ One-stop webpage for all your security : Home, Office and Museum !!!
 **CAM-Secure** is a web-based one-stop web page that provides sensitive and active security without installation.
  This Security works on the basis of movement detection with customable sensitivity. You can just **select a part of the camera's vision to detect movement , while you can keep monitoring the rest of the space** . This had been made , keeping in mind, the security system required is a meuseun; people wil be moving all around, but in a particular place, having valuable items, should not be touched, but the camera can see full room. Now...the problem is solved!
  
- ## Advantages :
+ ## Out With SOme Eaxciting Features ! :
   
   - **Customable sensitivity** on motion
   - **Runs in broser without instalation**
